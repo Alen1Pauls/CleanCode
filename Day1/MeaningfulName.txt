@@ -1,0 +1,7 @@
+Review: 1- Use a more descriptive and meaningful name.
+Review:2 - Variable name should be ListOfEmployees.
+Review:3 - Remove data type initial from variable names.
+Review: 4 -Argument names are shitty. remove data type initials
+Review:5 - Irregular naming format, follow respective camel case, etc
+Review: 6- Use startWOrkDate and Modified instead of m
+Review: 7- use a datatype for employee phone number. Use Camel case or Pascal. 
